@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lucy And Etta</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lucy">Lucy</string>
+    <string name="lucy_the_golden_doodle">Lucy\nthe Golden Doodle</string>
+    <string name="lucy_age">2</string>
+    <string name="lucy_description">Nickname: "Bah Lu Lu"\nFavorite toy: Ball\nFavorite hobby: Go Ride!\nAge:</string>
+    <string name="etta_description">Nickname: "Baby Bean"\nFavorite toy: Frisbee\nFavorite hobby: Holding hands\nAge:</string>
+    <string name="title_activity_etta">Etta</string>
+    <string name="title_activity_dog_park">DogParkActivity</string>
+    <string name="title_activity_dog_park_maps">Map</string>
+</resources>
