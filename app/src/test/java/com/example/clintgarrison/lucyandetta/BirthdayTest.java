@@ -29,7 +29,13 @@ public class BirthdayTest {
 
     @Test
     public void testMoreThanAYear(){
-        String result = Birthday.daysToString(400);
-        assertEquals(result, "I am 1 years and 35 days old!");
+        String result = Birthday.daysToString(420);
+        assertEquals( "1 years 1 months 25 days", result);
+    }
+
+    @Test
+    public void testZeroMonths(){
+        String result = Birthday.daysToString(365);
+        assertEquals( "1 years 0 months 0 days", result);
     }
 }
